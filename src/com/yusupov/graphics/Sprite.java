@@ -1,4 +1,4 @@
-package com.yusupov.game;
+package com.yusupov.graphics;
 
 import java.awt.*;
 import java.awt.image.BufferedImage;
