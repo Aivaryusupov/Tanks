@@ -1,4 +1,4 @@
-package graphics;
+package com.yusupov.graphics;
 
 import com.yusupov.utils.ResourceLoader;
 
